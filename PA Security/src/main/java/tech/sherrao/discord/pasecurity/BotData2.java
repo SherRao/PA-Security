@@ -1,7 +1,7 @@
 package tech.sherrao.discord.pasecurity;
 
 /**
- * Class to represent the BotData class without leaking important information
+ * Dummy class to represent the BotData class without leaking important information
  * 
  * @author Nausher Rao
  *
@@ -13,5 +13,5 @@ public class BotData2 {
 	public static final String BOT_TOKEN = "";
 	
 	public static final String COMMAND_PREFIX = "!";
-	
+
 }
